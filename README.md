@@ -17,7 +17,7 @@ Parte Mobile
 ![](ecoleta%202.png)
 
 **Cadastro Finalizado**
-![](ecoleta%203.PNG)
+![](coleta%203.PNG)
 
 ### **Mobile**
 
@@ -26,3 +26,9 @@ Parte Mobile
 
 **Busca de Pontos de Coleta**<br/>
 <img src="https://github.com/Oppadayo/ecoleta/blob/master/ecoleta%205.png" height="500">
+
+### Todos
+- [ ] Mascara para o whatsapp
+- [ ] Select na busca mobile
+- [ ] Mostrar quando der erro ao cadastrar ponto de coleta
+- [ ] Tirar do mapa pontos de coleta quando desselecionar itens 
