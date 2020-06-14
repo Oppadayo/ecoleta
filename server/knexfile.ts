@@ -3,8 +3,8 @@ import path from 'path';
 module.exports = {
     client: 'mysql',
     connection:{
-        user : 'root',
-        password : 'pc159357',        
+        user : '',
+        password : '',        
         database : 'ecoleta',
         insecureAuth : true        
     },
