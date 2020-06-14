@@ -4,8 +4,8 @@ import path from 'path';
 const connection = knex({
     client: 'mysql',
     connection:{        
-        user : 'root',
-        password : 'pc159357',
+        user : '',
+        password : '',
         database : 'ecoleta',
         insecureAuth : true
     },
