@@ -166,7 +166,7 @@ $ npm start
 # A aplicação será aberta na 19001 - Ela abre uma aba com as opções de rodar a aplicação no emulador ou no celular usando o QR code
 ```
 
-### ToDos
+### 📝 ToDos
 - [ ] Mascara para o whatsapp.
 - [ ] Select na busca mobile.
 - [ ] Mostrar quando der erro ao cadastrar ponto de coleta.
