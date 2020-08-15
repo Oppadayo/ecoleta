@@ -68,7 +68,7 @@ O layout da aplicação está disponível no Figma:
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
   <img alt="NextLevelWeek" title="#NextLevelWeek" src="./ecoleta%202.png" width="400px">
 
-  <img alt="NextLevelWeek" title="#NextLevelWeek" src="./coleta%203.PNG" width="400px">
+  <img alt="NextLevelWeek" title="#NextLevelWeek" src="./coleta%203.PNG" height="400px">
 </p>
 
 ## 🛠 Tecnologias
@@ -111,6 +111,12 @@ $ cd server
 
 # Instale as dependências
 $ npm install
+
+#Rode as migrations para criação do banco de dados
+$ npm run knex:seed
+
+#Rode as migrations para alimentar o banco de dados
+$ npm run knex:migrate
 
 # Execute a aplicação em modo de desenvolvimento
 $ npm run dev
